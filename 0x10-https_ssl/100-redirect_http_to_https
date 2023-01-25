@@ -47,5 +47,5 @@ frontend www_https
 
 backend servers
 	balance roundrobin
-	server web-01 18.235.248.178:80 check
-	server web-02 54.160.121.36:80 check
+	server web-01 18.207.142.204:80 check
+	server web-02 54.175.245.126:80 check
